@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /trial.html
+Disallow: /test/
+Disallow: /staging/
+
+Sitemap: https://www.janamcleaning.qa/sitemap.xml
+
+User-agent: Googlebot
+Crawl-delay: 0
+
+User-agent: Bingbot
+Crawl-delay: 1
